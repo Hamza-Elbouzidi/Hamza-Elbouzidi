@@ -3,15 +3,13 @@
 Welcome to my GitHub profile! I'm currently a 5th-year student in **Applied Computer Methods for Business Management** with a strong focus on **ERP systems, Data, Business Intelligence (BI), and Development**. I’m passionate about leveraging technology to solve real-world business problems and drive data-driven decision-making.
 
 ## 🔭 What I'm working on
-- Developing and optimizing ERP systems for businesses
-- Enhancing my skills in data analysis, machine learning, and web development
-- Contributing to open-source projects that aim to improve business workflows
+- Developing and optimizing ERP systems for businesses cases examples
+- Enhancing my skills in data analysis, machine learning, and web development by making personal and academic projects
 
 ## 🌱 What I'm currently learning
 - Advanced Business Intelligence techniques
 - Modern web frameworks (React, Node.js, etc.)
 - Machine learning algorithms and applications
-- Cloud technologies (AWS, Azure)
 
 ## 👯 I'm looking to collaborate on
 - ERP and Business Intelligence projects
