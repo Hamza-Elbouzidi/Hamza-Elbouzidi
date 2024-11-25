@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm currently a 5th-year student in **Applied Comp
 
 ## 🔭 What I'm working on
 - Developing and optimizing ERP systems for businesses
-- Building data pipelines and dashboards for business intelligence
 - Enhancing my skills in data analysis, machine learning, and web development
 - Contributing to open-source projects that aim to improve business workflows
 
